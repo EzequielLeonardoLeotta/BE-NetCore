@@ -1,7 +1,7 @@
 ﻿using BE_Template_NetCore.Dtos;
 using BE_Template_NetCore.Models;
 using BE_Template_NetCore.Models.Classes;
-using BE_Template_NetCore.Services.Interfaces;
+using BE_Template_NetCore.Services.ExampleService;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Threading.Tasks;

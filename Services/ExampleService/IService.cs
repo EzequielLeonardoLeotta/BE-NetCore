@@ -4,7 +4,7 @@ using BE_Template_NetCore.Models.Classes;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace BE_Template_NetCore.Services.Interfaces
+namespace BE_Template_NetCore.Services.ExampleService
 {
   public interface IService
   {
