@@ -1,7 +1,6 @@
 using AutoMapper;
 using BE_Template_NetCore.Data;
-using BE_Template_NetCore.Services.Implementations;
-using BE_Template_NetCore.Services.Interfaces;
+using BE_Template_NetCore.Services.ExampleService;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
